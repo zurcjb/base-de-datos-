@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="java-oracle">
+    <archive path="C:/Users/52951/Downloads/Conexion-a-Base-de-Datos-main/Conexion-a-Base-de-Datos-main/Java_ORACLE/java-oracle.zip" />
+  </library>
+  <library name="Eval-DocenteMain">
+    <archive path="C:/Users/52951/Downloads/Conexion-a-Base-de-Datos-main/Conexion-a-Base-de-Datos-main/Evaluacion_Docente_php/Eval-DocenteMain.zip" />
+  </library>
+</eclipse-userlibraries>
+
